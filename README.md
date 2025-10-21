@@ -1,4 +1,4 @@
-# ⚡ Load Flow Analysis using Decoupled Newton–Raphson Method (MATLAB)
+# ⚡ Load Flow Analysis using Decoupled Newton–Raphson Method 
 
 ## 📖 Project Overview
 This project develops a **generalized load flow analysis program** for power systems using the **Decoupled Newton–Raphson (DNR) method** in MATLAB.  
@@ -25,5 +25,8 @@ It also records iteration history and displays the apparent power injection at e
 | 2 | PV (Generator) Bus |
 | 3 | PQ (Load) Bus |
 
-### Input Data Format
-#### Bus Data
+🎯 Learning Outcomes
+Understand the Decoupled Newton–Raphson load flow algorithm.
+Gain hands-on experience with Y-bus matrix formation and power equations.
+Learn MATLAB-based power system modeling and simulation.
+Visualize convergence behavior across iterations.
